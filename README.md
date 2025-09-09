@@ -2,7 +2,6 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning deep NN
 - 📫 Reach me @diggusingh08@gmail.com
-- 😄 Pronouns: 
 
 <!---
 diggusingh08/diggusingh08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
